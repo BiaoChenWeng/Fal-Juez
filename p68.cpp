@@ -1,11 +1,10 @@
-/*
 #include <iostream>
 #include <fstream>
 #include <vector>
 //#include <chrono>
 
 
-// Introduce m·s librerÌas si son necesarias
+// Introduce m√°s librer√≠as si son necesarias
 using namespace std;
 //using namespace std::chrono;
 using tModelo = pair<int, int>;
@@ -145,7 +144,3 @@ void resuelveCaso() {
 
     //cout << "The time is:" << duration.count() << endl;
 }
-
-
-
-*/
