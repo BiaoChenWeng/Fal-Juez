@@ -1,2 +1,2 @@
 # Fal-Juez
-Código de fundamento algoritmia de 2º 
+Código de fundamento algoritmia de 2º UCM informática
