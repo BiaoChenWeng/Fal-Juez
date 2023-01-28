@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include <algorithm>// Introduce m·s librerÌas si son necesarias
+#include <algorithm>// Introduce m√°s librer√≠as si son necesarias
 using namespace std;
 
 bool resuelveCaso();
