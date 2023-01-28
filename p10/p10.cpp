@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-// Introduce m·s librerÌas si son necesarias
+// Introduce m√°s librer√≠as si son necesarias
 
 
 using namespace std;
@@ -50,7 +50,7 @@ void quitarError(vector<int> &v,int error) {
 
 
 // resuelve un caso de prueba, leyendo de la entrada la
-// configuraciÛn, y escribiendo la respuesta
+// configuraci√≥n, y escribiendo la respuesta
 void resuelveCaso() {
     
     int tam, error;
